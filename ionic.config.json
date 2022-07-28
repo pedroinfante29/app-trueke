@@ -1,0 +1,8 @@
+{
+  "name": "AppTrueke",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "9bcb19f0"
+}

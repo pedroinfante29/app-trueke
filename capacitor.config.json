@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "AppTrueke",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
